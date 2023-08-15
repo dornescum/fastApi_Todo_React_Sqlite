@@ -23,7 +23,9 @@ isDone INTEGER
 
 ### React Todo App
 
-This project includes a minimalist Todo application built using React. The original source for the React Todo app can be found [here](https://github.com/shubham1710/React-Todo/tree/master). The app has been thoughtfully customized and enhanced to align seamlessly with the objectives of this project.
+This project includes a minimalist Todo application built using React.
+The goal of the project was to create a backend to an existing frontend project.
+The original source for the React Todo app can be found [here](https://github.com/shubham1710/React-Todo/tree/master). The app has been thoughtfully customized and enhanced to align seamlessly with the objectives of this project.
 
 In addition to the React frontend, I have integrated a robust Python backend powered by FastAPI and SQLite. This backend setup enables comprehensive CRUD (Create, Read, Update, Delete) functionality for managing your todo items. The FastAPI framework also brings the advantage of built-in Swagger documentation, making it easy to explore and test the API endpoints (http://localhost:8000/docs).
 
